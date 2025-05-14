@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h1>testing testing testing
+          testing testing testing
           Nepal College of Information Technology
         </a>
       </header>
