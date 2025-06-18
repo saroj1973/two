@@ -9,13 +9,14 @@ pipeline{
                 }
             }
             steps{
+                sh '''
                 ls -la
                 npm --version
                 node --version
                 echo 'testing hhshs'
                 npm ci
                 npm run build
-
+            '''
             }
         }
     }
