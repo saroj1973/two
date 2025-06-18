@@ -11,12 +11,9 @@ pipeline{
             steps{
                 ls -la
                 npm --version
-                echo 'hallo fdsffdsfsf'
                 node --version
                 npm ci
-                echo 'hallo fdsffdsfsf'
                 npm run build
-                ls -la
             }
         }
     }
