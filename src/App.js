@@ -19,8 +19,8 @@ function App() {
           Nepal College of Information Technology
         </a>
       </header>
+      
     </div>
   );
 }
-
 export default App;
