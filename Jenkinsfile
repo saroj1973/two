@@ -13,7 +13,7 @@ pipeline{
                 ls -la
                 npm --version
                 node --version
-                echo 'testing hhshs'
+                echo 'testing hhshsfdsfsfsd'
                 npm ci
                 npm run build
             '''
